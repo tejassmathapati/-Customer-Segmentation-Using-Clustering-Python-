@@ -42,4 +42,3 @@ for idx, row in cluster_profile.iterrows():
         print("Marketing Strategy: Mid-value customers. Recommend targeted discounts, bundle offers, and personalized recommendations.")
     else:
         print("Marketing Strategy: Low-value customers. Recommend awareness campaigns, introductory discounts, and engagement through newsletters.")
-
